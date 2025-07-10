@@ -27,8 +27,5 @@ Tested the code for different inputs to ensure accuracy.
 ✅ Outcome
 The project successfully demonstrates the implementation of basic to medium-level Python logic to solve real-world problems. This task helped in improving my confidence in Python and GUI/data handling.
 
-📹 Demo Video
-Click here to watch the demo (replace with your actual video link)
-
 🔗 LinkedIn Project Post
-View my post (replace with your actual post link)
+https://www.linkedin.com/posts/krushna-gadge-1b792a345_python-voiceassistant-speechrecognition-activity-7346900506646061058-eWfK?utm_source=share&utm_medium=member_ios&rcm=ACoAAFZ04psB6v0S-uXvpVqClFhLHy8iDUTLEvM
